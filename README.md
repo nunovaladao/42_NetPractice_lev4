@@ -67,6 +67,7 @@ By mastering these concepts, you'll be better equipped to design, configure, and
 
 - https://dnsmadeeasy.com/support/subnet
 - https://www.calculator.net/ip-subnet-calculator.html?cclass=any&csubnet=27&cip=91.198.14.1&ctype=ipv4&printit=0&x=75&y=28
+- https://github.com/lp-ob/NetPractice
 
 
 ##
